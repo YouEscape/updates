@@ -1,15 +1,7 @@
 {
-    "title": "StoryTask News",
-    "items": [
-        {
-            "headline": "New Feature Released!",
-            "text": "We've added exciting new content to explore.",
-            "date": "January 28, 2026"
-        },
-        {
-            "headline": "Upcoming Event",
-            "text": "Join us for the next Action Hour this weekend!",
-            "date": "January 25, 2026"
-        }
-    ]
+    "version": 5,
+    "text": "Next Action Hour",
+    "event_date": "Feb, Mar 22nd",
+    "event_time": "7pm utc / 2pm et",
+    "link": "https://www.patreon.com/youescape"
 }
