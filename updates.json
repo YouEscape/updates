@@ -2,14 +2,14 @@
     "title": "StoryTask News:",
     "items": [
         {
-            "headline": "New Feature Released!",
-            "text": "We've added exciting new content to explore.",
-            "date": "January 28, 2026"
+            "headline": "Feel free to fill the questionnaire",
+            "text": "Any feedback is more than welcome.",
+            "date": "January 29, 2026"
         },
         {
-            "headline": "Upcoming Event",
-            "text": "Join us for the next Action Hour this weekend!",
-            "date": "January 25, 2026"
+            "headline": "Greetings adventurer. A real-life quest is waiting for you!",
+            "text": "Enjoy StoryTask and let me know your thoughts.",
+            "date": "January 29, 2026"
         }
     ]
 }
