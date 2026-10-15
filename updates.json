@@ -2,14 +2,14 @@
     "title": "ST News:",
     "items": [
         {
-            "headline": "Questionnaire added.",
+            "headline": "Questionnaire added",
             "text": "Your feedback is more than welcome.",
-            "date": "Jun 29, 2026"
+            "date": "Nov 1, 2026"
         },
         {
-            "headline": "Thanks for being here!",
-            "text": "You're part of the testing phase of StoryTask. Feel free to explore the app.",
-            "date": "Jun 29, 2026"
+            "headline": "Welcome to StoryTask!",
+            "text": "Thanks for being here! Feel free to explore the app",
+            "date": "Nov 1, 2026"
         }
     ]
 }
